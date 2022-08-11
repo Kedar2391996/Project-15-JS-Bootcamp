@@ -14,6 +14,4 @@ Skills Gained in this project
     3.   Gained indepth knowledge of flexbox.
 
 
-    ![HomePage](project-15.png)
-
-    ![Netlify Status](https://api.netlify.com/api/v1/badges/7a1034c4-a1af-454c-b0a6-efe4c5802e02/deploy-status)(https://app.netlify.com/sites/product-design-landing-15/deploys)
+    [Home](https://product-design-landing-15.netlify.app/)
