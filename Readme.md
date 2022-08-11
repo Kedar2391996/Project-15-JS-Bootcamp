@@ -14,4 +14,4 @@ Skills Gained in this project
     3.   Gained indepth knowledge of flexbox.
 
 
-    ![LCO](./images/Product_Design_LandingPage.png)
+    ![HomePage](./images/Product_Design_LandingPage.png)
