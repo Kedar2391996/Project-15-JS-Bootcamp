@@ -331,12 +331,12 @@ body {
 }
 
 .footer {
-    max-width: 250px;
-    margin-left:130px;
+    max-width: 350px;
+    margin-left:180px;
 }
 
 .footer img {
-    width: 100px;
+    width: 120px;
 }
 
 .social-icons{

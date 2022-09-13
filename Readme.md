@@ -7,6 +7,8 @@
 ## Time taken to finish this project
 
    Approximately 4 hour taken to complete this one.
+   
+[Home](https://product-design-landing-15.netlify.app/)
 
 Skills Gained in this project
     1. Learned to create background box for visual design.
@@ -14,4 +16,4 @@ Skills Gained in this project
     3.   Gained indepth knowledge of flexbox.
 
 
-    [Home](https://product-design-landing-15.netlify.app/)
+    
